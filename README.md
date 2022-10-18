@@ -34,3 +34,5 @@ The available filters are date, city, state, country, and the shape which the vi
 One major drawback weith the design of this web page, however, is that it isn't novice-friendly so to speak.  The user would have to read through all the data to get an idea of how to filter it, which is a bit counter-intuitive.
 
 A major fix would be a drop-down menu on each filter that would give the user all the available options, such as the available countries or states in the dataset.
+
+Also, there is only data from 2010, having a constantly updated webpage would be much more appealing where we have much more comprehensive information and sightings can be removed if found to be a hoax.
