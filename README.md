@@ -28,3 +28,9 @@ The available filters are date, city, state, country, and the shape which the vi
 > Using California as a filter:
 <img width="1712" alt="ca" src="https://user-images.githubusercontent.com/108758105/196321393-469eae73-fb8c-4254-8322-1638527710a4.png">
 
+
+## Summary
+
+One major drawback weith the design of this web page, however, is that it isn't novice-friendly so to speak.  The user would have to read through all the data to get an idea of how to filter it, which is a bit counter-intuitive.
+
+A major fix would be a drop-down menu on each filter that would give the user all the available options, such as the available countries or states in the dataset.
